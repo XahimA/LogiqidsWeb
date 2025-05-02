@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import HomeScreen from './pages/TrelloBoard';
+import HomeScreen from './pages/HomeScreen';
 
 
 const App = () => {
